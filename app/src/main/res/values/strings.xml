@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="searchUser">Search Github User</string>
+    <string name="search">Search</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+
+    <string name="data_followers">%d Followers</string>
+    <string name="data_following">%d Following</string>
+
+    <string name="error_message">Error while loading data</string>
+    <string name="iv_splash">Github Logo</string>
+
+    <string name="fab">Tambahkan User Favorite</string>
+    <string name="favorite_added">Added to Favorite</string>
+    <string name="favorite_removed">Favorite Removed</string>
+    <string name="favorite">Favorite Users</string>
+    <string name="github_favorite_user">Github Favorite User</string>
+    <string name="github_user_detail">Github User Detail</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="display">Display Mode</string>
+</resources>
